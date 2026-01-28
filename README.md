@@ -6,7 +6,7 @@ Code and data for the paper: **"Multidimensional cfRNA response modeling identif
 
 ## 🚀 Overview
 
-This repository contains the training, testing, and validation datasets used in the study. It provides a complete computational pipeline for developing a 5-gene pair signature for pulmonary tuberculosis (PTB) diagnosis using cfRNA data. The workflow covers the entire process, including gene-pair feature extraction, model selection, feature selection, hyperparameter optimization and model construction, model validation.
+This repository contains: (i) the training, testing, and validation datasets used in the study; (ii) a complete computational pipeline for developing a 5-gene pair signature for PTB diagnosis using cfRNA data (covering feature extraction, model selection, feature selection, hyperparameter optimization, model construction and model validation); and (iii) reproducible scripts to retrieve performance metrics of the parent study model on the validation cohort.
 
 ## 📂 Project Structure
 
