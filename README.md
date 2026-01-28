@@ -11,6 +11,11 @@ This repository contains: (i) the training, testing, and validation datasets use
 ## 📂 Project Structure
 
 ```text
+├── Parent-study validation performance extraction/                            
+│   ├── AUC.jpg                
+│   ├── Parent-study validation performance extraction.ipynb                 
+│   └── Sample_size.jpg              
+│
 ├── data/                              # datasets
 │   ├── 01_train_df.csv                # Training cohort
 │   ├── 02_test_df.csv                 # Internal testing cohort
