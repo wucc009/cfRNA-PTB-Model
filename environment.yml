@@ -1,4 +1,4 @@
-name: cfRNA-PTB-Model
+name: cfRNA_PTB_Model
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
